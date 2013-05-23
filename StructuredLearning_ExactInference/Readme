@@ -1,0 +1,24 @@
+---------------- STRUCTURED LEARNING AND EXACT INFERENCE ------------------
+
+1. Variable Elimination Algorithm applied on a Bayesian Network representing the Alarm Systems
+
+
+2. Structured Learning of Tree Structured Markov Random Fields based on Maximum Likelihood learning(Chow -Liu) Algorithm.
+
+
+3. Implementation of Belief Propogation algorithms(Max Product and Sum Product) to answer MAP and exact inference queries.
+
+------------------- DEPENDENCIES -----------------------------------------
+In addition to standard python packages , I use
+graph package networkx
+
+Please Install it as : sudo pip install networkx
+
+------------------ RUNNING THE CODE ---------------------------------------
+Running the Code :
+
+python VariableElimination.py alarm.bif
+
+python chow-liu.py names.txt chowliu-input.txt
+
+python BeliefPropogation.py names.txt office.uai kitchen.uai
