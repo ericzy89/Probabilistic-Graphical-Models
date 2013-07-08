@@ -1,3 +1,7 @@
+'''
+    Author : Rahul Manghwani, NYU Courant
+    Written : 5th April 2013
+'''
 import sys;
 import math;
 import networkx as nx
