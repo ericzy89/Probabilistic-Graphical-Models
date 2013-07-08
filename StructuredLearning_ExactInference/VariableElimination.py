@@ -1,3 +1,8 @@
+'''
+Author : Rahul Manghwani, NYU Courant
+Written : 5th Feb 2013
+'''
+
 import sys;
 import bifParser;
 import matplotlib.pyplot as plt
