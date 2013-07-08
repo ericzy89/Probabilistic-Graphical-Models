@@ -1,3 +1,8 @@
+'''
+Author : Rahul Manghwani, NYU Courant
+Written : 4th Feb 2013
+'''
+
 import sys;
 import math;
 import matplotlib.pyplot as plt
