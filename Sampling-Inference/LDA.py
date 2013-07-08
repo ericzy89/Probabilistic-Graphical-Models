@@ -1,3 +1,8 @@
+'''
+Author : Rahul Manghwani, NYU Courant
+Written : 20th March 2013
+'''
+
 import sys;
 import numpy as np;
 import math;
