@@ -1,3 +1,9 @@
+'''
+Author : Rahul Manghwani, NYU Courant
+Written : 5th May 2013
+'''
+
+
 import sys;
 import math;
 import copy
